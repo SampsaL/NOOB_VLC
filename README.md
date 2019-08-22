@@ -4,6 +4,8 @@ Android Visible Light Communication (VLC) reader application developed for Nokia
 the programmable LED on Zolertia Firefly mote running contiki-ng / EAP-NOOB. The LED transmits an Out-of-band (OOB) message
 in the form of a URL.
 
+Contiki-ng and EAP-NOOB project: https://github.com/eduingles/coap-eap-noob
+
 
 
 

@@ -7,7 +7,8 @@ in the form of a URL.
 Contiki-ng and EAP-NOOB project: https://github.com/eduingles/coap-eap-noob
 
 
-
+# Screen capture
+![App Screenshot](app_screenshot.png)
 
 
 Licensing

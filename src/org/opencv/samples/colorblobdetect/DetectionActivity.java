@@ -226,7 +226,7 @@ public class DetectionActivity extends Activity implements OnTouchListener, CvCa
                 ProgressBar progress = findViewById(R.id.progressBar2);
                 StringBuilder url_string = new StringBuilder();
                 ObjectAnimator animation = ObjectAnimator.ofInt(progress, "progress",count);
-                progress.setMax(103);
+                progress.setMax(103);  // #TODO: implement method for recording the end-of-signal, instead of a fixed value.
                 String[] values = value.split("  ");
                 String[] textview = txt.split("  ");
                 int match = 0;

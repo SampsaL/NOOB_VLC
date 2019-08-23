@@ -38,7 +38,8 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-# Installation using Android Studio
+Installation using Android Studio
+---------
 1. Configure OpenCV for Android.
-2. Once you have OpenCV working, you can replace the contents of colorblobdetect sample folder with these files.
+2. Once you have OpenCV working, replace the contents of colorblobdetect sample folder with these files.
 

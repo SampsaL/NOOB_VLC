@@ -1,4 +1,4 @@
-# NOOB_VLC_seq
+# NOOB_VLC
 
 Android Visible Light Communication (VLC) reader application developed for Nokia 5.1. This application reads data from
 the programmable LED on Zolertia Firefly mote running contiki-ng / EAP-NOOB. The LED transmits an Out-of-band (OOB) message
